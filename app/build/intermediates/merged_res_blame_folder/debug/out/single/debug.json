@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-merged_res-50:/layout_item_task.xml.flat",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/layout/item_task.xml"
+    },
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-merged_res-50:/drawable_status_background.xml.flat",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/drawable/status_background.xml"
+    },
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-merged_res-50:/drawable_ic_network.xml.flat",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/drawable/ic_network.xml"
+    },
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-merged_res-50:/drawable_ic_launcher.xml.flat",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.cyberfreight.taskapp-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.cyberfreight.taskapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/xml/backup_rules.xml"
+    }
+]

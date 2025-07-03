@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cyberfreight.taskapp-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.cyberfreight.taskapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-mergeDebugResources-49:/layout/item_task.xml",
+        "source": "/Users/faez/.gradle/daemon/8.10/com.cyberfreight.taskapp-main-52:/layout/item_task.xml"
+    }
+]

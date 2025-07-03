@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline Mode</string>
+    <string name="geofence_active">📍 Geofence Active</string>
+    <string name="no_tasks_available">No tasks available</string>
+    <string name="location_permission_required">Location permission required for geofencing</string>
+    <string name="geofence_activated">Geofence activated at San Francisco (37.7749, -122.4194)</string>
+</resources> 

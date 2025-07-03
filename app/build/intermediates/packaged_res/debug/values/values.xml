@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="error">#FFB00020</color>
+    <color name="geofence_active">#FF2196F3</color>
+    <color name="offline">#FFFF9800</color>
+    <color name="on_background">#FF000000</color>
+    <color name="on_error">#FFFFFFFF</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_surface">#FF000000</color>
+    <color name="online">#FF4CAF50</color>
+    <color name="primary">#FF6200EE</color>
+    <color name="primary_variant">#FF3700B3</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="secondary_variant">#FF018786</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Task App</string>
+    <string name="geofence_activated">Geofence activated at San Francisco (37.7749, -122.4194)</string>
+    <string name="geofence_active">📍 Geofence Active</string>
+    <string name="location_permission_required">Location permission required for geofencing</string>
+    <string name="no_tasks_available">No tasks available</string>
+    <string name="offline">Offline Mode</string>
+    <string name="online">Online</string>
+    <style name="Theme.TaskApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
