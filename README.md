@@ -185,10 +185,6 @@ The app uses the JSONPlaceholder API for demonstration:
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is for educational purposes and demonstrates Android development best practices.
-
 ## Support
 
 For issues or questions:
